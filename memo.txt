@@ -1,0 +1,5 @@
+EXTRN	??2@YAPAXI@Z:PROC				; operator new
+EXTRN	??3@YAXPAX@Z:PROC				; operator delete
+
+EXTRN	??_V@YAXPAX@Z:PROC				; operator delete[]
+EXTRN	??_U@YAPAXI@Z:PROC				; operator new[]
