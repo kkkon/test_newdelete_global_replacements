@@ -1,0 +1,1 @@
+# test_newdelete_global_replacements
